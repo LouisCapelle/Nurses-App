@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bundle-id</key>
+		<string>com.louiscorp.Learn.asset-pack-3ETBWOFWY01LA</string>
+		<key>bundle-path</key>
+		<string>/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/actool/OnDemandResources/com.louiscorp.Learn.launchIcon.assetpack</string>
+		<key>tags</key>
+		<array>
+			<string>launchIcon</string>
+		</array>
+	</dict>
+</array>
+</plist>

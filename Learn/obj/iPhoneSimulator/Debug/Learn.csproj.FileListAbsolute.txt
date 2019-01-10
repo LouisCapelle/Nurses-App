@@ -1,0 +1,24 @@
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/Learn.exe
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/Learn.pdb
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/Learn.csprojAssemblyReference.cache
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/Learn.csproj.CoreCompileInputs.cache
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/Learn.exe
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/Learn.pdb
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/RestSharp.dll
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/louiscapelle/Projects/Cac/Learn/Learn/bin/iPhoneSimulator/Debug/RestSharp.xml
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/Learn.csproj.CopyComplete
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/actool/_PartialAppManifest.items
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/coremlc/_PartialAppManifest.items
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/logo app2.png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/lab_separator.png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/home.png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/no_photo.png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/4mgy8AYLoZnE3kWtypDzSrpARbtSVwkj972k.png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/home (1).png
+/Users/louiscapelle/Projects/Cac/Learn/Learn/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-12.1/optimized/
